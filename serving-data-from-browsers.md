@@ -412,11 +412,11 @@ Promise.all(
 
 —
 
-[`data:text/html,<h1>Hello World`](#)
+`data:text/html,<h1>Hello World`
 
 —
 
-[`data:text/csv,a,b,c%0A1,2,3`](#)
+`data:text/csv,a,b,c%0A1,2,3`
 
 ^ you can also base64 encode
 
